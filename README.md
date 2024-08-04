@@ -1,13 +1,13 @@
 # Getting Started with Create React App
 
 # About This Project
-1.Identify relevant APIs: Search for travel discount APIs that offer programmatic access to their deals. Popular travel discount marketplaces or coupon providers might have APIs you can leverage.
+1.<b>Identify relevant APIs:</b> Search for travel discount APIs that offer programmatic access to their deals. Popular travel discount marketplaces or coupon providers might have APIs you can leverage.
 
-2.API Integration:  Once you've identified an API, you'll need to understand its documentation and authentication process. It will typically involve making API calls from your application to retrieve discount data.
+2.<b>API Integration:</b> Once you've identified an API, you'll need to understand its documentation and authentication process. It will typically involve making API calls from your application to retrieve discount data.
 
-3.Data Integration: Integrate the retrieved discount data into your application. This might involve parsing the JSON response from the API and displaying it on your Homepage component. You could potentially display these discounts alongside your search results or popular destinations.
+3.<b>Data Integration:</b> Integrate the retrieved discount data into your application. This might involve parsing the JSON response from the API and displaying it on your Homepage component. You could potentially display these discounts alongside your search results or popular destinations.
 
-4.Display Discounts:  Design and implement a user interface element to display the discounts you've retrieved from the API. This could be a separate section on your homepage or integrated with your search results.
+4.<b>Display Discounts:</b> Design and implement a user interface element to display the discounts you've retrieved from the API. This could be a separate section on your homepage or integrated with your search results.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
